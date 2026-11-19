@@ -38,7 +38,5 @@ Markdown使用#来设置标题，#数量代表标题级别。一个#是一级大
 Markdown上手门槛很低，写完在不同平台打开格式基本不变，很适合写学习笔记，也是GitHub仓库文档的标准写法。
 
 ## 参考资料
-
-GitHub MarkDown语法说明
-
-MarkDown中文教程网站
+- [GitHub MarkDown语法说明](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [MarkDown中文教程网站](https://markdown.com.cn/)
