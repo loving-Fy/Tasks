@@ -1,7 +1,7 @@
 # Tasks 任务索引
 
 ## 第一周
-- [Profile README](./Profile README.md)
+- [Profile README](./ProfileREADME.md)
 - [GitHub学习笔记](./GitHub学习笔记.md)
 - [Markdown学习笔记](./Markdown学习笔记.md)
 - [Markdown练习笔记](./Markdown练习笔记.md)
