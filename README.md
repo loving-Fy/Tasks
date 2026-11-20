@@ -1,5 +1,4 @@
 # Tasks 任务索引
-> Geek任务文档导航，按周分类
 
 ## 第一周
 - [个人Profile README仓库](./Profile README.md)
