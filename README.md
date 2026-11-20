@@ -12,4 +12,4 @@
 - [Git学习笔记](./Git学习笔记.md)
 - [hello.md练习文档](./hello.md)
 - [问题解决记录2](./问题解决记录2.md)
-- [Git学习感想](./git-idea/git-thought-冯艺凡.md)
+- [Git学习感想](./Git学习感想.md)
